@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Isaac Morah  
 
-<!--
-**IsaacMorah/IsaacMorah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **DevOps Engineer** passionate about automation, cloud-native technologies, and CI/CD pipelines.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- **DevOps Tools**: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible  
+- **Cloud Platforms**: AWS (EC2, S3, IAM, CloudWatch)  
+- **Languages**: Python, Bash  
+
+## Featured Projects  
+1. **[E-commerce CI/CD Pipeline](https://github.com/yourusername/ecommerce-cicd)**  
+   Automates the build, test, and deployment of a Node.js microservices app on Kubernetes.  
+   Tools: Jenkins, Docker, Kubernetes, AWS  
+
+2. **[Infrastructure Automation with Terraform](https://github.com/yourusername/terraform-aws-automation)**  
+   Provision AWS infrastructure using Terraform with reusable modules.  
+
+3. **[Monitoring and Logging Setup](https://github.com/yourusername/monitoring-stack)**  
+   Implements Prometheus and Grafana for real-time application monitoring and logging.  
+
+🌐 [LinkedIn](https://linkedin.com/in/yourusername) 
