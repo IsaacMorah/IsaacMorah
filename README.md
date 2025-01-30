@@ -5,7 +5,7 @@
 ## Skills  
 - **DevOps Tools**: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible  
 - **Cloud Platforms**: AWS (EC2, S3, IAM, CloudWatch, EKS)  
-- **Languages**: Python, Bash  
+- **Languages**: Python, Bash, Groovy, YAML, HCL, DSL 
 - **Monitoring & Logging**: Prometheus, Grafana and CloudWatch  
 
 ## Featured Projects  
