@@ -9,11 +9,11 @@
 - **Languages**: Python, Bash  
 
 ## Featured Projects  
-1. **[E-commerce CI/CD Pipeline](https://github.com/yourusername/ecommerce-cicd)**  
-   Automates the build, test, and deployment of a Node.js microservices app on Kubernetes.  
-   Tools: Jenkins, Docker, Kubernetes, AWS  
+1. **[E-commerce CI/CD Pipeline](https://github.com/IsaacMorah/CICD.git)**  
+   Automates the build, test, and deployment of a E-commerce app on Kubernetes.  
+   Tools: Jenkins, Sonarqube, Docker, Kubernetes, AWS. 
 
-2. **[Infrastructure Automation with Terraform](https://github.com/yourusername/terraform-aws-automation)**  
+2. **[Infrastructure Automation with Terraform](https://github.com/IsaacMorah/terraform-files.git)**  
    Provision AWS infrastructure using Terraform with reusable modules.  
 
 3. **[Monitoring and Logging Setup](https://github.com/yourusername/monitoring-stack)**  
