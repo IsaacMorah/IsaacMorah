@@ -16,8 +16,8 @@
 2. **[Infrastructure Automation with Terraform](https://github.com/IsaacMorah/terraform-files.git)**  
    Provision AWS infrastructure using Terraform with reusable modules.  
 
-3. **[Monitoring and Logging Setup](https://github.com/IsaacMorah/monitoring-stack)**  
-   Implements Prometheus, Grafana, for real-time application monitoring and logging.  
+3. **[Ansible Playbooks](https://github.com/IsaacMorah/ansible.git)**  
+   Ansible automation scripts for server configuration and application deployment.  
 
 4. **[E-commerce Web App](https://github.com/IsaacMorah/ecom-web-app.git)**  
    A full-stack e-commerce web application.  
@@ -33,7 +33,6 @@
    A web application for managing an online library.  
    Tools: Python, Flask, Docker.  
 
-8. **[Ansible Playbooks](https://github.com/IsaacMorah/ansible.git)**  
-   Ansible automation scripts for server configuration and application deployment.  
+ 
 
 
